@@ -1,0 +1,7 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 112 ciObject found
+ciMethod java/util/HashMap$HashIterator nextNode ()Ljava/util/HashMap$Node; 2121 6873 10999 0 448
+ciMethod java/util/HashMap$ValueIterator next ()Ljava/lang/Object; 3089 1 5510 0 -1
+ciMethodData java/util/HashMap$HashIterator nextNode ()Ljava/util/HashMap$Node; 2 25419 orig 264 88 115 116 116 0 0 0 0 80 124 175 22 0 0 0 0 8 2 0 0 128 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

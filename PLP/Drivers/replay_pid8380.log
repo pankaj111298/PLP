@@ -1,0 +1,10 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 113 ciObject found
+ciMethod java/lang/Boolean booleanValue ()Z 1209 1 151 0 -1
+ciMethod java/lang/Integer intValue ()I 1057 1 132 0 -1
+ciMethod java/net/AbstractPlainSocketImpl setOption (ILjava/lang/Object;)V 2049 1 6401 0 -1
+ciMethod java/net/AbstractPlainSocketImpl isClosedOrPending ()Z 2049 1 5376 0 608
+ciMethod java/net/AbstractPlainSocketImpl socketSetOption (IZLjava/lang/Object;)V 0 0 1 0 -1
+ciMethodData java/net/AbstractPlainSocketImpl isClosedOrPending ()Z 2 5376 orig 264 88 115 40 111 0 0 0 0 32 229 183 26 0 0 0 0 96 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

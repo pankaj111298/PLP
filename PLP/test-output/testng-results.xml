@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37084" started-at="2019-09-11T14:05:24Z" finished-at="2019-09-11T14:06:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37084" started-at="2019-09-11T14:05:24Z" finished-at="2019-09-11T14:06:01Z">
+      <class name="com.cg.testcases.Demo">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.cg.testcases.Demo@1bc7afb]" name="browser" is-config="true" duration-ms="6854" started-at="2019-09-11T19:35:24Z" finished-at="2019-09-11T19:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="compareProductTest(java.util.Hashtable)[pri:0, instance:com.cg.testcases.Demo@1bc7afb]" name="compareProductTest" duration-ms="29488" started-at="2019-09-11T19:35:32Z" data-provider="getperformData" finished-at="2019-09-11T19:36:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=rajanipankaj11@gmail.com, Password=hello123}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareProductTest -->
+      </class> <!-- com.cg.testcases.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
